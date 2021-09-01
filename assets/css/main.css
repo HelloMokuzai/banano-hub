@@ -1953,7 +1953,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #F7DE31;
-			color: #636363 !important;
+			color: #2A2A2E !important;
 			box-shadow: none;
 		}
 
@@ -1963,7 +1963,7 @@ input, select, textarea {
 			button.primary:hover,
 			.button.primary:hover {
 				background-color: #FBDD11;
-				color: #636363 !important;
+				color: #2A2A2E !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -1972,7 +1972,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:active {
 				background-color: #FBDD11;
-				color: #636363 !important;
+				color: #2A2A2E !important;
 			}
 
 			input[type="submit"].primary.icon:before,
@@ -3216,7 +3216,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
 		background-color: #ffffff;
-		color: #636363;
+		color: #2A2A2E;
 		position: absolute;
 		width: 64em;
 		max-width: calc(100% - 4em);
@@ -3229,19 +3229,19 @@ input, select, textarea {
 	}
 
 		#nav input, #nav select, #nav textarea {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#nav a:hover {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#nav strong, #nav b {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#nav blockquote {
@@ -3335,24 +3335,24 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #2A2A2E;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main blockquote {
@@ -3379,7 +3379,7 @@ input, select, textarea {
 		#main .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: #636363 !important;
+			color: #2A2A2E !important;
 		}
 
 			#main input[type="submit"]:hover,
@@ -3412,7 +3412,7 @@ input, select, textarea {
 			#main button.primary,
 			#main .button.primary {
 				background-color: #F7DE31;
-				color: #636363 !important;
+				color: #2A2A2E !important;
 				box-shadow: none;
 			}
 
@@ -3422,7 +3422,7 @@ input, select, textarea {
 				#main button.primary:hover,
 				#main .button.primary:hover {
 					background-color: #FBDD11;
-					color: #636363 !important;
+					color: #2A2A2E !important;
 				}
 
 				#main input[type="submit"].primary:active,
@@ -3431,7 +3431,7 @@ input, select, textarea {
 				#main button.primary:active,
 				#main .button.primary:active {
 					background-color: #FBDD11;
-					color: #636363 !important;
+					color: #2A2A2E !important;
 				}
 
 				#main input[type="submit"].primary.icon:before,
@@ -3443,7 +3443,7 @@ input, select, textarea {
 				}
 
 		#main label {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main input[type="text"],
@@ -3469,13 +3469,13 @@ input, select, textarea {
 		}
 
 			#main select option {
-				color: #636363;
+				color: #2A2A2E;
 				background: #ffffff;
 			}
 
 		#main input[type="checkbox"] + label,
 		#main input[type="radio"] + label {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 			#main input[type="checkbox"] + label:before,
@@ -3486,8 +3486,8 @@ input, select, textarea {
 
 		#main input[type="checkbox"]:checked + label:before,
 		#main input[type="radio"]:checked + label:before {
-			background-color: #636363;
-			border-color: #636363;
+			background-color: #2A2A2E;
+			border-color: #2A2A2E;
 			color: #ffffff;
 		}
 
@@ -3527,7 +3527,7 @@ input, select, textarea {
 
 		#main .icon.alt {
 			border-color: #dddddd;
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 			#main .icon.alt:hover {
@@ -3543,7 +3543,7 @@ input, select, textarea {
 		}
 
 		#main dl dt {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main header.major h2:after {
@@ -3563,7 +3563,7 @@ input, select, textarea {
 			}
 
 		#main table th {
-			color: #636363;
+			color: #2A2A2E;
 		}
 
 		#main table thead {
