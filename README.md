@@ -9,7 +9,7 @@ Our aim is to collate all the useful links to both official and community projec
 
 ## TO CONTRIBUTE:
 
-**If you wish to contribute to the repo, please feel free to create a pull request, or** :love_letter: hellomokuzai@outlook.com
+**If you wish to contribute to the repo, please feel free to create a pull request or** :love_letter: hellomokuzai@outlook.com
 
 *This repository is maintained as a labour of love. However, if you wish to show your appreciation for my efforts - please feel free to donate BANANO (BAN) to the address below.* :sparkling_heart:
 
