@@ -14,9 +14,12 @@ Our aim is to collate all the useful links to both official and community projec
 *This repository is maintained as a labour of love. However, if you wish to show your appreciation for my efforts - please feel free to donate BANANO (BAN) to the address below.* :sparkling_heart:
 
 Donate Banano 🍌
+
 `ban_3j8gwrkc7qgx11rrncdw8bzuuo4ojwp3xkawspefm3sbac3s5i6f48dgewfd`
+
 ![Donate](https://github.com/HelloMokuzai/banano-hub/blob/main/images/bossQR.png)
 
-Donate Bitcoin ⚡ (LN-BTC)
+Donate Bitcoin ⚡ (LN-BTC) - https://tipybit.com/mkzi
+
 
 MKZI:joystick:
