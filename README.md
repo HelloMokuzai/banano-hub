@@ -17,7 +17,7 @@ Our aim is to collate all the useful links to both official and community projec
 
 ![Donate](https://github.com/HelloMokuzai/banano-hub/blob/main/images/bossQR.png)
 
-*or Donate Bitcoin* ⚡ - https://tipybit.com/mkzi
+*Bitcoin (Lightning)* ⚡ *donations are also accepted* - https://tipybit.com/mkzi
 
 
 MKZI:joystick:
