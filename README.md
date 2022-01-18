@@ -1,4 +1,4 @@
-![Logo](https://github.com/HelloMokuzai/banano-hub/blob/main/images/banhub.png)
+![Logo](https://github.com/HelloMokuzai/banano-hub/blob/main/images/banhub.svg)
 
 # BANANO HUB
 The FREE information & link repository for monkeys using the BANANO cryptocurrency network.
