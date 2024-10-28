@@ -1,0 +1,14 @@
+/*
+	Made with ❤ for the BANANO community!
+    MKZI Design Labs - https://github.com/HelloMokuzai
+*/
+
+/* Tiles */
+
+	body.is-preload .tiles article {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+	}
