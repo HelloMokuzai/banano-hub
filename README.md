@@ -13,6 +13,8 @@ Our aim is to collate all the useful links to both official and community projec
 
 Banano HUB is a Free and open-source software (FOSS) project. To contribute you can open a [pull request](https://github.com/HelloMokuzai/banano-hub/pulls) / submit an [issue](https://github.com/HelloMokuzai/banano-hub/issues) on Github or 💌 `hellomokuzai@outlook.com`
 
+🤝 Show your support - give a ⭐️ to this project if you like our content!
+
 ## Donate ❤️
 
 This website is maintained as a labour of love. However, if you wish to show your appreciation for my efforts - please feel free to donate BANANO (BAN) to the address below.
