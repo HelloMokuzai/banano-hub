@@ -1,9 +1,20 @@
-<img src="https://github.com/HelloMokuzai/banano-hub/blob/main/images/bananohub.png" alt="drawing" width="100" height="100"/>
-
-# Banano HUB
+```
+  ____          _   _          _   _  ____  
+ |  _ \   /\   | \ | |   /\   | \ | |/ __ \ 
+ | |_) | /  \  |  \| |  /  \  |  \| | |  | |
+ |  _ < / /\ \ | . ` | / /\ \ | . ` | |  | |
+ | |_) / ____ \| |\  |/ ____ \| |\  | |__| |
+ |____/_/_   \_\_|_\_/_/    \_\_| \_|\____/ 
+ | |  | | |  | |  _ \                       
+ | |__| | |  | | |_) |                      
+ |  __  | |  | |  _ <                       
+ | |  | | |__| | |_) |                      
+ |_|  |_|\____/|____/                       
+```                                                                                        
+# <img src="https://github.com/HelloMokuzai/banano-hub/blob/main/images/bananohub.png" alt="drawing" width="28" height="28"/> BANANO HUB
 ### Explore the [BANANO](https://banano.cc/) ecosystem!
 
-*Banano HUB is an information & link repository for monkeys using the BANANO Cryptocurrency Network.*
+*An information & link repository for monkeys using the BANANO Cryptocurrency Network.*
 
 **Visit:** https://hub.banano.network/
 
