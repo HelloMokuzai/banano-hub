@@ -1,8 +1,4 @@
-```
- ⣏⡱ ⣎⣱ ⡷⣸ ⣎⣱ ⡷⣸ ⡎⢱   ⣇⣸ ⡇⢸ ⣏⡱
- ⠧⠜ ⠇⠸ ⠇⠹ ⠇⠸ ⠇⠹ ⠣⠜   ⠇⠸ ⠣⠜ ⠧⠜                                          
-```                                                                                        
-# <img src="https://github.com/HelloMokuzai/banano-hub/blob/main/images/bananohub.png" alt="drawing" width="24" height="24"/> BANANO HUB
+# <img src="https://github.com/HelloMokuzai/banano-hub/blob/main/images/bananohub.png" alt="drawing" width="26" height="26"/> BANANO HUB
 ### Explore the [BANANO](https://banano.cc/) cryptocurrency ecosystem!
 
 *An information & link repository for monkeys using the BANANO Cryptocurrency Network.*
