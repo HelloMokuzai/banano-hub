@@ -1,15 +1,6 @@
 ```
-  ____          _   _          _   _  ____  
- |  _ \   /\   | \ | |   /\   | \ | |/ __ \ 
- | |_) | /  \  |  \| |  /  \  |  \| | |  | |
- |  _ < / /\ \ | . ` | / /\ \ | . ` | |  | |
- | |_) / ____ \| |\  |/ ____ \| |\  | |__| |
- |____/_/_   \_\_|_\_/_/    \_\_| \_|\____/ 
- | |  | | |  | |  _ \                       
- | |__| | |  | | |_) |                      
- |  __  | |  | |  _ <                       
- | |  | | |__| | |_) |                      
- |_|  |_|\____/|____/                       
+ ⣏⡱ ⣎⣱ ⡷⣸ ⣎⣱ ⡷⣸ ⡎⢱   ⣇⣸ ⡇⢸ ⣏⡱
+ ⠧⠜ ⠇⠸ ⠇⠹ ⠇⠸ ⠇⠹ ⠣⠜   ⠇⠸ ⠣⠜ ⠧⠜                                          
 ```                                                                                        
 # <img src="https://github.com/HelloMokuzai/banano-hub/blob/main/images/bananohub.png" alt="drawing" width="24" height="24"/> BANANO HUB
 ### Explore the [BANANO](https://banano.cc/) cryptocurrency ecosystem!
